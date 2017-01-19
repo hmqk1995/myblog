@@ -1,0 +1,37 @@
+menus:
+	-
+		name: Home
+		link: /
+# -
+# 	name: Categories
+# 	link: categories/
+# -
+# 	name: Repositories
+# 	link: open-source/
+	-
+		name: Gallery
+		link: gallery/
+	-
+		name: Contact
+		link: contact/
+	-
+		name: About Me
+		link: aboutme/
+
+# Profile
+profile:
+	location: Beijing, China
+	#github: hmqk1995
+	#stackoverflow:
+		#title: yumemor
+		#href: http://stackoverflow.com/users/5662132/yumemor
+	#organization: 组织/公司
+
+#Github
+github:
+	username: hmqk1995
+  popular_repos: [ysale-sms,scude-answer,cordova-plugin-alipay]
+
+#Comments
+duoshuo_username: lukegit # 多说配置
+#disqus_username: yumemor # disqus 配置
